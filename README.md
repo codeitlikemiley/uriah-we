@@ -46,9 +46,9 @@
     <img src="https://actix.rs/img/logo.png" alt="git" width="40" height="40"/>
   </a>
 </p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley17&layout=compact&hide=html" alt="uriah" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriah-we&layout=compact&hide=html" alt="uriah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley17&show_icons=true" alt="uriah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uriah-we&show_icons=true" alt="uriah" /></p>
 
 </br>
 
