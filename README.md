@@ -5,7 +5,7 @@
 
 - 👨‍💻 I Use **Artix Linux** , check my [Artix Dotfiles](https://github.com/goldcoders/artix-dotfiles)
 - 👨‍💻 I Use **Mac** check My [Mac M1 Dot Files](https://github.com/goldcoders/mac-m1-dotfiles)
-- 👨‍💻 I Use **Windows 11** Check My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
+- 👨‍💻 I Use **Windows** Check My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
 
 - I use Neovide in Rust with [Custom Lua Config](https://github.com/goldcoders/neovide-rust-neovim)
 
